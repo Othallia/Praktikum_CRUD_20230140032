@@ -10,5 +10,8 @@ PUT:
 DELETE:
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f6c38668-4d0b-420f-a4be-f99abc004b2f" />
 
-Tampilan Web:
+Tampilan Web sebelum ada data:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7b914c87-cf99-49de-9a60-492832be679b" />
+
+Tampilan Web setelah ada data:
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/83899a09-bef8-426c-8a2e-c5dd3c0a8475" />
